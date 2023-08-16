@@ -1,0 +1,3 @@
+Tracking the changes: We can get who modified the file(username,email, size & modified time)
+                        We can get details like which line/word/character/statements/paragraph was deleted/added/modified .
+                        Code/script/file/directory - all these are tracked.
